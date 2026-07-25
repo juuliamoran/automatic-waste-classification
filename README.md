@@ -79,7 +79,7 @@ automatic-waste-classification/
 └── images/
     ├── architecture1.png   # Model architecture visual 1
     └── architecture2.png   # Model architecture visual 2
-
+```
 
 ## Technologies
 * Python
