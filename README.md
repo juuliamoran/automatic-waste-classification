@@ -76,8 +76,10 @@ automatic-waste-classification/
 ├── report.pdf              # Detailed project report (PDF)
 ├── RESIDUS.ipynb           # Main Jupyter Notebook with code & experiments
 └── images/
-    ├── architecture1.png   # Model architecture visual 1
-    └── architecture2.png   # Model architecture visual 2
+    ├── cnn_architecture.png        # Model architecture visual 1
+    ├── mobilenet_frozen.png        # Model architecture visual 2
+    └── mobilenet_finetuning.png    # Model architecture visual 3
+
 ```
 
 ## Technologies
