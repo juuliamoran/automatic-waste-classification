@@ -69,21 +69,22 @@ The models were evaluated using the **F1-macro** metric (due to class imbalance)
 
 
 ## Repository Structure
-automatic-waste-classification
+```text
+automatic-waste-classification/
 │
-├── README.md
-├── notebooks
-│   └── RESIDUS.ipynb
-├── report.pdf
-└── images
-    ├── architecture1.png
-    └── architecture2.png
+├── README.md               # Project documentation
+├── report.pdf              # Detailed project report (PDF)
+├── notebooks/
+│   └── RESIDUS.ipynb       # Main Jupyter Notebook with code & experiments
+└── images/
+    ├── architecture1.png   # Model architecture visual 1
+    └── architecture2.png   # Model architecture visual 2
 
 
 ## Technologies
-Python
-TensorFlow
-OpenCV
-Scikit-learn
-NumPy
-Matplotlib
+* Python
+* TensorFlow
+* OpenCV
+* Scikit-learn
+* NumPy
+* Matplotlib
