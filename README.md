@@ -74,8 +74,7 @@ automatic-waste-classification/
 │
 ├── README.md               # Project documentation
 ├── report.pdf              # Detailed project report (PDF)
-├── notebooks/
-│   └── RESIDUS.ipynb       # Main Jupyter Notebook with code & experiments
+├── RESIDUS.ipynb           # Main Jupyter Notebook with code & experiments
 └── images/
     ├── architecture1.png   # Model architecture visual 1
     └── architecture2.png   # Model architecture visual 2
